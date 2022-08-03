@@ -1,8 +1,8 @@
 ## Hey dev! Welcome to my github profile 😄
 <div>
   <a href="https://github.com/Igorbforti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorbforti&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbforti&langs_count=16&theme=tokyonight&layout=compact">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igorbforti&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbforti&langs_count=16&theme=tokyonight&layout=compact">
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -19,7 +19,7 @@
     <a href="mailto:igorbonuzzi@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/igor-bonuzzi-forti-a1a94a229">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/igor-bonuzzi-forti-a1a94a229" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
